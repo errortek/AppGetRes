@@ -1,0 +1,9 @@
+source = "AppGet"
+latestVersion = "10.1.0"
+
+optOutOfBulkUpdates = true
+requestUpdateOwnership = false
+
+description = """
+jpb's custom F-Droid client.
+"""
